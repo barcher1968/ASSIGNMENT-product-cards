@@ -16,3 +16,7 @@ body{
   border-color: lightblue; 
  text-align: center;
 }
+
+.card-title{
+  border: solid 1px lightblue;
+}
